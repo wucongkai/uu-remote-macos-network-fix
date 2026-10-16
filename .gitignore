@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+*.log
+*.log.*
+.DS_Store
+.venv/
+.env
+.env.*
+original-config/
+original-state.json
